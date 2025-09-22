@@ -1,7 +1,7 @@
 # SQL data cleaning project
 
 This project demonstrates Data cleaning and transformation using SQL queries.
-The dataset contains layoffs and i have applied window functions, CTEs, joins, update, alter to generate meaningful insights.
+The dataset contains layoffs and i have applied window functions, CTEs, joins, alter, update to generate meaningful insights.
 The main objective were:
 -  Remove duplicate values
 -  Standardize the data
